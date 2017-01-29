@@ -1,2 +1,2 @@
 # zna
-these are example of my scripts
+these are examples of my script
